@@ -1,5 +1,5 @@
 kibu
-version 0.01
+version 0.02
 
 Description
 
@@ -11,12 +11,14 @@ Ideas
 	Platformer
 	Two-Four legged walker climbing obstacles, intelligent walking and controlled via very simple controls.
 
-
 	Puzzle
-	First person exploration game.
+	First person exploration game. Untangling animation loops.
 
 	Circle
 	Fast paced match game using touch control to eliminate blocks.
+
+	Sphere
+	Puzzle game rotating a 3D spheroid to draw connections between ends without crossing the streams.
 
 
 
